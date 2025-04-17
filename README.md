@@ -17,3 +17,6 @@ Christ Church Boys’ Senior Secondary School, Jabalpur (M.P.)
 Percentage: 78%
 
 ## Linkedin profile - www.linkedin.com/in/maan-dubey-44908a357
+
+## Tech Stack
+I have a solid understanding of HTML and CSS, and I can build clean, basic websites using them. I also have a good grasp of the fundamentals of C programming, and I'm currently learning Python to expand my programming skills.
